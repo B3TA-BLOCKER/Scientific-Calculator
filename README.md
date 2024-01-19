@@ -7,7 +7,7 @@ Welcome to the Scientific Calculator GitHub repository! 🚀 This repository hou
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
+   git clone https://github.com/B3TA-BLOCKER/Scientific-Calculator.git
    ```
 2. **Navigate to the repository:**
 
