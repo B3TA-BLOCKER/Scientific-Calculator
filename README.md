@@ -17,8 +17,8 @@ Welcome to the Scientific Calculator GitHub repository! 🚀 This repository hou
 3. **Compile and run the C++ program:**
 
    ```bash
-   g++ calculator.cpp -o calculator
-   ./calculator
+   g++ Scientific_Calculator.cpp -o Scientific_Calculator
+   ./Scientific_Calculator
    ```
 
 4. **Follow the on-screen instructions to unleash the power of calculations! 🚀**
