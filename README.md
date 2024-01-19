@@ -2,6 +2,14 @@
 
 Welcome to the Scientific Calculator GitHub repository! 🚀 This repository houses a sleek and techie C++ program that brings a powerful scientific calculator to your fingertips. 🌐 The calculator supports a variety of mathematical operations, making it your go-to tool for both basic and advanced calculations.
 
+
+## **Features 💡**
+
+  * Addition, Subtraction, Multiplication, and Division
+  * Trigonometric functions: sin(), cos(), tan() 📐
+  * Square root, Factorial, Exponentiation, Cube root
+
+
 ## **💻 How to Use**
 
 1. **Clone the repository to your local machine:**
@@ -24,11 +32,6 @@ Welcome to the Scientific Calculator GitHub repository! 🚀 This repository hou
 4. **Follow the on-screen instructions to unleash the power of calculations! 🚀**
 
    
-## **Features 💡**
-
-  * Addition, Subtraction, Multiplication, and Division
-  * Trigonometric functions: sin(), cos(), tan() 📐
-  * Square root, Factorial, Exponentiation, Cube root
 
 
 ## **Contributing 🤝**
