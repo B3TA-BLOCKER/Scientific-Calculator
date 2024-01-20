@@ -17,19 +17,15 @@ Welcome to the Scientific Calculator GitHub repository! 🚀 This repository hou
    ```bash
    git clone https://github.com/B3TA-BLOCKER/Scientific-Calculator.git
    ```
-2. **Navigate to the repository:**
 
-   ```bash
-   cd scientific-calculator
-   ```
-3. **Compile and run the C++ program:**
+2. **Compile and run the C++ program:**
 
    ```bash
    g++ Scientific_Calculator.cpp -o Scientific_Calculator
    ./Scientific_Calculator
    ```
 
-4. **Follow the on-screen instructions to unleash the power of calculations! 🚀**
+3. **Follow the on-screen instructions to unleash the power of calculations! 🚀**
 
    
 
